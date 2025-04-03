@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MealSuggester</string>
+    <string name="enter_the_time_of_day_morning_mid_morning_afternoon_mid_afternoon_dinner_after_dinner">Enter the time of day (Morning, Mid-morning, Afternoon, Mid-afternoon, Dinner, After dinner):</string>
+    <string name="e_g_morning">e.g., Morning</string>
+    <string name="suggest_meal">Suggest Meal</string>
+    <string name="reset">Reset</string>
+    <string name="meal_suggestion_app">Meal Suggestion App</string>
+</resources>
